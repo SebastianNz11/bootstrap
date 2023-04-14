@@ -23,6 +23,15 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
+a {
+    color: var(--link-color);
+    transition: all .3s ease-out;
+}
+
+a:hover {
+    color: var(--first-color);
+}
+
 
 
 /* BOOTSTRAP STYLES */
@@ -68,6 +77,10 @@ body {
 
 /* MY STYLES */
 
+.bg-gradient-blue-green{
+    background: rgb(10,107,138);
+    background: linear-gradient(90deg, rgba(10,107,138,1) 0%, rgba(50,168,221,1) 35%, rgba(119,202,219,1) 100%);
+}
 
 
 
