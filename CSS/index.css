@@ -82,6 +82,13 @@ a:hover {
     background: linear-gradient(90deg, rgba(10,107,138,1) 0%, rgba(50,168,221,1) 35%, rgba(119,202,219,1) 100%);
 }
 
+.bg-third-color{
+    background-color: var(--third-color);
+}
+
+.text-third{
+    color: var(--third-color);
+}
 
 
 
