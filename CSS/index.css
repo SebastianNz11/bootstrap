@@ -90,6 +90,10 @@ a:hover {
     color: var(--third-color);
 }
 
+.bg-color {
+    background-color: var(--bg-color);
+}
+
 
 
 
